@@ -2,5 +2,5 @@
 
 void main()
 {
-printf("teeest");
+printf("socond tests");
 }
